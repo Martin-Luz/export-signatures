@@ -47,110 +47,112 @@
 				mso-yfti-tbllook: 1184;
 				mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
 				">
-				<tr style="
-					mso-yfti-irow: 0;
-					mso-yfti-firstrow: yes;
-					mso-yfti-lastrow: yes;
-					height: 15pt;
-					">
-					<td width="500" style="width: 375pt; padding: 0.75pt 0.75pt 0.75pt 0.75pt; height: 15pt">
-						<p class="MsoNormal">
-							<span style="mso-fareast-font-family: 'Times New Roman'">
-								<a href="https://cyclopay.com/" target="_blank">
-									<span style="text-decoration: none; text-underline: none">
-										<img border="0" width="460" height="260" id="_x0000_i1031" src="http://cyclopay.martinluz.com.br/site/email/logoby.svg" style="margin-right: 42px; width: 370px" />
-									</span>
-								</a>
-								<o:p></o:p>
-							</span>
-						</p>
-					</td>
-					<td style="padding: 0.75pt 0.75pt 0.75pt 0.75pt; height: 15pt">
-						<div style="
-							border: none;
-							border-left: solid #cccccc 1pt;
-							mso-border-left-alt: solid #cccccc 0.75pt;
-							padding: 0cm 0cm 0cm 26pt;
-							display: inline-block;
-							" height="20">
-							<h3 style="margin-bottom: 0cm; vertical-align: middle">
-								<span id="name" style="
-								mso-fareast-font-family: 'Calibri';
-								color: #1536be;
-								font-size: 20px;
-								color: #1536be;
-								font-family: Calibri;
-								font-weight: 800;
-								text-transform: capitalize;
-								margin-bottom: 0px;
-								">
-								</span>
-								<br />
-								<i style="margin-top: 0px">
-									<span id="job" style="
-									font-size: 10.5pt;
-									font-family: 'Arial', sans-serif;
-									mso-fareast-font-family: 'Times New Roman';
-									mso-fareast-font-family: 'Calibri';
-									color: #a00aaf;
-									font-size: 14px;
-									font-style: italic;
-									font-weight: 600;
-									text-transform: capitalize;
-									margin-bottom: 0px;
-									">
-									</span><br /></i>
-								<a href="tel:5511945349787" target="_blank" style="
-									font-size: 14px;
-									font-family: Arial;
-									font-family: Calibri;
-									font-weight: 600;
-									">
-									<span style="
-										color: #4e4b5b;
-										text-decoration: none;
-										text-underline: none;
-										">
-										<img border="0" width="36" height="36" id="_x0000_i1032" src="http://cyclopay.martinluz.com.br/site/email/whatsapp.svg" style="width: 36px" />
-									</span>
-								</a>
-								<span style="
-									font-size: 10.5pt;
-									mso-fareast-font-family: 'Times New Roman';
-									color: #4e4b5b;
-									">
-									<a href="tel:5511945349787" target="_blank">
-										<span style="color: #4e4b5b">tel: +55 (11) 94534-9787
-										</span>
-									</a>
-								</span>
-								<span style="mso-fareast-font-family: 'Times New Roman'"><br />
-									<a href="tel:5511945349787" target="_blank">
-										<span>
-											<img id="_x0000_i1033" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-01.svg" style="height: 34px; margin-right: -10px; width: 34px" width="36" height="36" border="0">
-										</span>
-									</a>
-									<a href="tel:5511945349787" target="_blank">
-										<span>
-											<img id="_x0000_i1034" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-03.svg" style="height: 34px; margin-right: -7px; width: 34px" width="36" height="36" border="0">
-										</span>
-									</a>
-									<a href="tel:5511945349787" target="_blank">
-										<span>
-											<img id="_x0000_i1035" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-02.svg" style="height: 34px; margin-right: -7px; width: 34px" width="36" height="36" border="0">
-										</span>
-									</a>
-									<a href="tel:5511945349787" target="_blank">
-										<span>
-											<img id="_x0000_i1036" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-04.svg" style="height: 34px; width: 34px" width="36" height="36" border="0"></span><span style="font-size: 11pt">
+				<tbody>
+					<tr style="
+						mso-yfti-irow: 0;
+						mso-yfti-firstrow: yes;
+						mso-yfti-lastrow: yes;
+						height: 15pt;
+						">
+						<td width="500" style="width: 375pt; padding: 0.75pt 0.75pt 0.75pt 0.75pt; height: 15pt">
+							<p class="MsoNormal">
+								<span style="mso-fareast-font-family: 'Times New Roman'">
+									<a href="https://cyclopay.com/" target="_blank">
+										<span style="text-decoration: none; text-underline: none">
+											<img border="0" width="460" height="260" id="_x0000_i1031" src="http://cyclopay.martinluz.com.br/site/email/logoby.svg" style="margin-right: 42px; width: 370px" />
 										</span>
 									</a>
 									<o:p></o:p>
 								</span>
-							</h3>
-						</div>
-					</td>
-				</tr>
+							</p>
+						</td>
+						<td style="padding: 0.75pt 0.75pt 0.75pt 0.75pt; height: 15pt">
+							<div style="
+								border: none;
+								border-left: solid #cccccc 1pt;
+								mso-border-left-alt: solid #cccccc 0.75pt;
+								padding: 0cm 0cm 0cm 26pt;
+								display: inline-block;
+								" height="20">
+								<h3 style="margin-bottom: 0cm; vertical-align: middle">
+									<span id="name" style="
+									mso-fareast-font-family: 'Calibri';
+									color: #1536be;
+									font-size: 20px;
+									color: #1536be;
+									font-family: Calibri;
+									font-weight: 800;
+									text-transform: capitalize;
+									margin-bottom: 0px;
+									">
+									</span>
+									<br />
+									<i style="margin-top: 0px">
+										<span id="job" style="
+										font-size: 10.5pt;
+										font-family: 'Arial', sans-serif;
+										mso-fareast-font-family: 'Times New Roman';
+										mso-fareast-font-family: 'Calibri';
+										color: #a00aaf;
+										font-size: 14px;
+										font-style: italic;
+										font-weight: 600;
+										text-transform: capitalize;
+										margin-bottom: 0px;
+										">
+										</span><br /></i>
+									<a href="tel:5511945349787" target="_blank" style="
+										font-size: 14px;
+										font-family: Arial;
+										font-family: Calibri;
+										font-weight: 600;
+										">
+										<span style="
+											color: #4e4b5b;
+											text-decoration: none;
+											text-underline: none;
+											">
+											<img border="0" width="36" height="36" id="_x0000_i1032" src="http://cyclopay.martinluz.com.br/site/email/whatsapp.svg" style="width: 36px" />
+										</span>
+									</a>
+									<span style="
+										font-size: 10.5pt;
+										mso-fareast-font-family: 'Times New Roman';
+										color: #4e4b5b;
+										">
+										<a href="tel:5511945349787" target="_blank">
+											<span style="color: #4e4b5b">tel: +55 (11) 94534-9787
+											</span>
+										</a>
+									</span>
+									<span style="mso-fareast-font-family: 'Times New Roman'"><br />
+										<a href="tel:5511945349787" target="_blank">
+											<span>
+												<img id="_x0000_i1033" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-01.svg" style="height: 34px; margin-right: -10px; width: 34px" width="36" height="36" border="0">
+											</span>
+										</a>
+										<a href="tel:5511945349787" target="_blank">
+											<span>
+												<img id="_x0000_i1034" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-03.svg" style="height: 34px; margin-right: -7px; width: 34px" width="36" height="36" border="0">
+											</span>
+										</a>
+										<a href="tel:5511945349787" target="_blank">
+											<span>
+												<img id="_x0000_i1035" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-02.svg" style="height: 34px; margin-right: -7px; width: 34px" width="36" height="36" border="0">
+											</span>
+										</a>
+										<a href="tel:5511945349787" target="_blank">
+											<span>
+												<img id="_x0000_i1036" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-04.svg" style="height: 34px; width: 34px" width="36" height="36" border="0"></span><span style="font-size: 11pt">
+											</span>
+										</a>
+										<o:p></o:p>
+									</span>
+								</h3>
+							</div>
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</main>
 
