@@ -126,22 +126,22 @@
 										</a>
 									</span>
 									<span style="mso-fareast-font-family: 'Times New Roman'"><br />
-										<a href="tel:5511945349787" target="_blank">
+										<a href="https://www.linkedin.com/company/cyclopay" target="_blank">
 											<span>
 												<img id="_x0000_i1033" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-01.svg" style="height: 34px; margin-right: -10px; width: 34px" width="36" height="36" border="0">
 											</span>
 										</a>
-										<a href="tel:5511945349787" target="_blank">
+										<a href="https://www.facebook.com/cyclopayoficial" target="_blank">
 											<span>
 												<img id="_x0000_i1034" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-03.svg" style="height: 34px; margin-right: -7px; width: 34px" width="36" height="36" border="0">
 											</span>
 										</a>
-										<a href="tel:5511945349787" target="_blank">
+										<a href="https://www.instagram.com/cyclopayoficial" target="_blank">
 											<span>
 												<img id="_x0000_i1035" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-02.svg" style="height: 34px; margin-right: -7px; width: 34px" width="36" height="36" border="0">
 											</span>
 										</a>
-										<a href="tel:5511945349787" target="_blank">
+										<a href="https://www.cyclopay.com/" target="_blank">
 											<span>
 												<img id="_x0000_i1036" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-04.svg" style="height: 34px; width: 34px" width="36" height="36" border="0"></span><span style="font-size: 11pt">
 											</span>
