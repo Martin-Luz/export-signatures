@@ -12,7 +12,6 @@
 
 
 <body style="height: 100vh">
-	<canvas id="canvas"></canvas>
 	<div class="d-flex h-100 justify-content-center">
 		<?php
 		// shell_exec('if exist %APPDATA%\Microsoft\Assinaturas\ ( explorer %APPDATA%\Microsoft\Assinaturas\ ) else ( explorer %APPDATA%\Microsoft\Signatures\ )'); 
