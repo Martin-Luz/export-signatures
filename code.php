@@ -21,11 +21,11 @@
 				<img id="logo" src="http://cyclopay.martinluz.com.br/site/email/logoby.svg" width="370px" style="width: 370px; margin-right: 42px; " />
 			</a>
 			<div style="display: inline-block; vertical-align: middle; height: 120px; padding: 10px 0 10px 35px; border-left: 1px solid #ccc; ">
-				<h3 class="name" style="color: #1536be; font-size: 20px; font-family: Arial; font-family: Calibri; font-weight: 800; text-transform: capitalize; margin-bottom: 0px"></h3>
+				<h3 class="name" style="color: #1536be; font-size: 20px; font-family: Arial; font-family: Arial; font-weight: 800; text-transform: capitalize; margin-bottom: 0px"></h3>
 				<h4 class="job" style="color: #a00aaf; font-size: 14px; font-family: Arial;  font-style: italic; font-weight: 600; text-transform: capitalize; margin-bottom: 0px"></h4>
 				<a href="tel:5511945349787" style="display: inline-block; margin-bottom: 3px; text-decoration: none;  color: #4e4b5b" target="_blank">
 					<img id="whats" src="http://cyclopay.martinluz.com.br/site/email/whatsapp.svg" width="36px" style="width: 36px; " />
-					<h4 id="tel" style="display: inline-block; font-size: 14px; font-family: Arial; font-family: Calibri; font-weight: 600; ">tel: +55 (11) 94534-9787</h4>
+					<h4 id="tel" style="display: inline-block; font-size: 14px; font-family: Arial; font-family: Arial; font-weight: 600; ">tel: +55 (11) 94534-9787</h4>
 				</a>
 				<br />
 				<img id="whats" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-01.svg" width="34px" style="width: 34px; margin-right: -10px" />
@@ -56,7 +56,7 @@
 						">
 						<td width="500" style="width: 375pt; padding: 0.75pt 0.75pt 0.75pt 0.75pt; height: 15pt">
 							<p class="MsoNormal">
-								<span style="mso-fareast-font-family: 'Times New Roman'">
+								<span style="mso-fareast-font-family: 'Arial'">
 									<a href="https://cyclopay.com/" target="_blank">
 										<span style="text-decoration: none; text-underline: none">
 											<img border="0" width="460" height="260" id="_x0000_i1031" src="http://cyclopay.martinluz.com.br/site/email/logoby.svg" style="margin-right: 42px; width: 370px" />
@@ -76,11 +76,11 @@
 								" height="20">
 								<h3 style="margin-bottom: 0cm; vertical-align: middle">
 									<span id="name" style="
-									mso-fareast-font-family: 'Calibri';
+									mso-fareast-font-family: 'Arial';
 									color: #1536be;
 									font-size: 20px;
 									color: #1536be;
-									font-family: Calibri;
+									font-family: Arial;
 									font-weight: 800;
 									text-transform: capitalize;
 									margin-bottom: 0px;
@@ -91,8 +91,8 @@
 										<span id="job" style="
 										font-size: 10.5pt;
 										font-family: 'Arial', sans-serif;
-										mso-fareast-font-family: 'Times New Roman';
-										mso-fareast-font-family: 'Calibri';
+										mso-fareast-font-family: 'Arial';
+										mso-fareast-font-family: 'Arial';
 										color: #a00aaf;
 										font-size: 14px;
 										font-style: italic;
@@ -104,7 +104,7 @@
 									<a href="tel:5511945349787" target="_blank" style="
 										font-size: 14px;
 										font-family: Arial;
-										font-family: Calibri;
+										font-family: Arial;
 										font-weight: 600;
 										">
 										<span style="
@@ -117,7 +117,7 @@
 									</a>
 									<span style="
 										font-size: 10.5pt;
-										mso-fareast-font-family: 'Times New Roman';
+										mso-fareast-font-family: 'Arial';
 										color: #4e4b5b;
 										">
 										<a href="tel:5511945349787" target="_blank">
@@ -125,7 +125,7 @@
 											</span>
 										</a>
 									</span>
-									<span style="mso-fareast-font-family: 'Times New Roman'"><br />
+									<span style="mso-fareast-font-family: 'Arial'"><br />
 										<a href="https://www.linkedin.com/company/cyclopay" target="_blank">
 											<span>
 												<img id="_x0000_i1033" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-01.svg" style="height: 34px; margin-right: -10px; width: 34px" width="36" height="36" border="0">
