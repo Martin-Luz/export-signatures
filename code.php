@@ -79,7 +79,7 @@
 								<span style="mso-fareast-font-family: 'Arial'">
 									<a href="https://cyclopay.com/" target="_blank">
 										<span style="text-decoration: none; text-underline: none">
-											<img id="_x0000_i1031" src="http://cyclopay.martinluz.com.br/site/email/logoby.png" style="margin-right: 42px; width: 370px" width="460" height="160" border="0">
+											<img id="_x0000_i1031" src="http://cyclopay.martinluz.com.br/site/email/logoby.png" style="margin-right: 42px; width: 370px" width="460" height="130" border="0">
 										</span>
 									</a>
 									<o:p></o:p>
@@ -139,7 +139,7 @@
 										color: #4e4b5b;
 										">
 										<a href="tel:5511945349787" target="_blank" style="color: #4e4b5b; text-decoration: none;">
-											<span style="color: #4e4b5b; text-decoration: none;">Tel: +55 (11) 94534-9787
+											<span style="color: #4e4b5b; text-decoration: none; vertical-align: middle">Tel: +55 (11) 94534-9787
 											</span>
 										</a>
 									</span>
