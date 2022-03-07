@@ -74,12 +74,12 @@
 						mso-yfti-lastrow: yes;
 						height: 15pt;
 						">
-						<td style="width: 375pt; padding: 0.75pt 0.75pt 0.75pt 0.75pt; height: 15pt" width="500">
+						<td style="width: 250pt; padding: 0.75pt 0.75pt 0.75pt 0.75pt; height: 15pt" width="500">
 							<p class="MsoNormal">
 								<span style="mso-fareast-font-family: 'Arial'">
 									<a href="https://cyclopay.com/" target="_blank">
 										<span style="text-decoration: none; text-underline: none">
-											<img id="_x0000_i1031" src="http://cyclopay.martinluz.com.br/site/email/logoby.png" style="margin-right: 42px; width: 370px" width="460" height="130" border="0">
+											<img id="_x0000_i1031" src="http://cyclopay.martinluz.com.br/site/email/logoby.png" style="margin-right: 42px; width: 370px" width="306" height="86" border="0">
 										</span>
 									</a>
 									<o:p></o:p>
