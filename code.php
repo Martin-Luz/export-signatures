@@ -45,13 +45,13 @@
 				<h4 class="job" style="color: #E62DFC; font-size: 14px; font-family: Arial;  font-style: italic; font-weight: 600; text-transform: capitalize; margin-bottom: 0px"></h4>
 				<a href="#" style="display: inline-block; margin-bottom: 3px; text-decoration: none;  color: #4e4b5b" target="_blank">
 					<img id="whats" src="http://cyclopay.martinluz.com.br/site/email/whatsapp.png" width="36px" style="width: 36px; " />
-					<h4 id="tel" style="display: inline-block; font-size: 14px; font-family: Arial; font-family: Arial; font-weight: 600; ">Tel: +55 (11) 94534-9787</h4>
+					<h4 class="phone" style="display: inline-block; font-size: 14px; font-family: Arial; font-family: Arial; font-weight: 600; ">Tel: +55 (11) 94534-9787</h4>
 				</a>
 				<br />
-				<img id="whats" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-01.png" width="34px" style="width: 34px; margin-right: -10px" />
-				<img id="whats" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-03.png" width="34px" style="width: 34px; margin-right: -7px" />
-				<img id="whats" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-02.png" width="34px" style="width: 34px; margin-right: -7px" />
-				<img id="whats" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-04.png" width="34px" style="width: 34px; " />
+				<img class="linkedin" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-01.png" width="34px" style="width: 34px; margin-right: -10px" />
+				<img class="facebook" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-03.png" width="34px" style="width: 34px; margin-right: -7px" />
+				<img class="instagram" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-02.png" width="34px" style="width: 34px; margin-right: -7px" />
+				<img class="link" src="http://cyclopay.martinluz.com.br/site/email/SOCIAL-04.png" width="34px" style="width: 34px; " />
 			</div>
 		</section>
 
@@ -138,8 +138,8 @@
 										mso-fareast-font-family: 'Arial';
 										color: #4e4b5b;
 										">
-										<a href="tel:5511945349787" target="_blank" style="color: #4e4b5b; text-decoration: none;">
-											<span style="color: #4e4b5b; text-decoration: none; vertical-align: middle">Tel: +55 (11) 94534-9787
+										<a id="whatsapp" href="tel:5511945349787" target="_blank" style="color: #4e4b5b; text-decoration: none;">
+											<span id="phone" style="color: #4e4b5b; text-decoration: none; vertical-align: middle">Tel: +55 (11) 94534-9787
 											</span>
 										</a>
 									</span>
@@ -228,6 +228,7 @@
 			var url = new URL(url_string);
 			var nome = url.searchParams.get("nome");
 			var cargo = url.searchParams.get("cargo");
+			var telefone = url.searchParams.get("telefone") || "(11) 94534-9787";
 
 			displayCodeOnScreen = function() {
 				var code = $("code");
@@ -241,24 +242,28 @@
 
 			gerar = function() {
 				// imageToMatrix('logo'); 
+				console.log(nome);
 				$("#name, #codeHtml .name").text(nome);
 				$("#job, #codeHtml .job").text(cargo);
+				$("#phone, #codeHtml .phone").text("Tel: " + telefone);
+				let phone = telefone.replace(/\D/g, '');
+				$("#whatsapp").attr('href', "https://wa.me/55" + phone);
 				displayCodeOnScreen();
 			};
 			gerar();
 
-			function convertImageToBase64() {
-				base_image = new Image();
-				base_image.src = './logoby.png';
-				console.log(base_image);
-				// canvas.width = $(window).width(); //change the canvas size
-				// canvas.height = $(window).height(); 
-				document.getElementById('canvas').getContext('2d').drawImage(base_image, 0, 0);
-				var image = canvas.toDataURL("image/png") // here is the most important part because if you dont replace you will get a DOM 18 exception.
-				// var image = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream"); // here is the most important part because if you dont replace you will get a DOM 18 exception.
-				console.log(image);
-			}
-			convertImageToBase64();
+			// function convertImageToBase64() {
+			// 	base_image = new Image();
+			// 	base_image.src = './logoby.png';
+			// 	console.log(base_image);
+			// 	// canvas.width = $(window).width(); //change the canvas size
+			// 	// canvas.height = $(window).height(); 
+			// 	document.getElementById('canvas').getContext('2d').drawImage(base_image, 0, 0);
+			// 	var image = canvas.toDataURL("image/png") // here is the most important part because if you dont replace you will get a DOM 18 exception.
+			// 	// var image = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream"); // here is the most important part because if you dont replace you will get a DOM 18 exception.
+			// 	console.log(image);
+			// }
+			// convertImageToBase64();
 
 			// imageToCanvas = function() {
 			// 	var canvas = document.getElementById('canvas'); 
